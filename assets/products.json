@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "The kite Runner",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis",
+    "price": 79999,
+    "availability": true,
+    "image": "assets/images/thekiterunner.png",
+    "added_to_cart" : false,
+    "quantity" : "2",
+    "issold": false,
+    "items_sold" : 1
+
+    
+  },
+   {
+    "id": 2,
+    "name": "The art of being alone",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis",
+    "price": 1999,
+    "availability": false,
+    "image": "assets/images/alone.png",
+     "added_to_cart" : false,
+     "quantity" : "6",
+     "issold": false,
+      "items_sold" : 1
+        
+
+  },
+  {
+    "id": 3,
+    "name": "Subtle art of not giving a f*ck",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis",
+    "price": 69999,
+    "availability": true,
+    "image": "assets/images/subtleartof.png",
+     "added_to_cart" : false,
+     "quantity" : "3",
+     "issold": false,
+      "items_sold" : 1
+        
+  },
+  {
+    "id": 4,
+    "name": "Atomic habits",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis",
+    "price": 69999,
+    "availability": true,
+    "image": "assets/images/atomichabits.png",
+     "added_to_cart" : false,
+     "quantity" : "5",
+     "issold": false,
+      "items_sold" : 1
+        
+  }
+ 
+]
